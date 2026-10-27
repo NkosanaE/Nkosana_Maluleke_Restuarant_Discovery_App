@@ -10,7 +10,6 @@ A focused native Android app built with **Kotlin + Jetpack Compose** for browsin
 - Hilt (dependency injection, with KSP)
 - Coroutines + Flow
 - Kotlinx Serialization (JSON)
-- Coil (image loading)
 - File-based local cache for the offline baseline and favorites
 - JUnit, MockK and kotlinx-coroutines-test for unit tests
 
